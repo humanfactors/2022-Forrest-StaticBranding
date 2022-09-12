@@ -1,10 +1,10 @@
-baseURL: "https://humanfactors.github.io/2022-Forrest-StaticBranding/"
 languageCode: en-US
 title: Forrest Tutorial
 disqusShortname: ''
 googleAnalytics: ''
 theme: hugo-sustain
-publishDir: "../docs/"
+baseUrl: "https://humanfactors.github.io/2022-Forrest-StaticBranding/" # Need to set this to correct subdomain
+publishDir: "../docs/" # This is only for purpose of the tutorial
 permalinks:
   post: /:year/:month/:day/:slug
 params:
