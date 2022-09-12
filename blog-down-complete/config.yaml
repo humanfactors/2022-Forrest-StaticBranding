@@ -1,0 +1,38 @@
+baseURL: https://example.com/
+languageCode: en-US
+title: Chris Turner
+disqusShortname: ''
+googleAnalytics: ''
+theme: hugo-sustain
+publishDir: "../docs/"
+permalinks:
+  post: /:year/:month/:day/:slug
+params:
+  author: Chris Turner
+  avatar: img/profile.png
+  custom_css: []
+  custom_js: []
+  description: Describe your website
+  social:
+    Email: email@example.com
+    Github: username
+    LinkedIn: username
+    Medium: username
+    RSS: /blog/index.xml
+    Stackoverflow: username
+    Telegram: username
+    Twitter: username
+menu:
+  main:
+    - identifier: blog
+      name: blog
+      url: /blog/
+      weight: 100
+    - identifier: projects
+      name: projects
+      url: /projects/
+      weight: 200
+    - identifier: resume
+      name: resume
+      url: /resume/
+      weight: 300
