@@ -5,6 +5,7 @@ disqusShortname: ''
 googleAnalytics: ''
 theme: hugo-sustain
 publishDir: "../docs/"
+canonifyURLs: true
 permalinks:
   post: /:year/:month/:day/:slug
 params:
