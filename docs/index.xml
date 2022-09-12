@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chris Turner</title>
-    <link>https://example.com/</link>
-    <description>Recent content on Chris Turner</description>
+    <title>Forrest Tutorial</title>
+    <link>https://humanfactors.github.io/2022-forrest-staticbranding/</link>
+    <description>Recent content on Forrest Tutorial</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://humanfactors.github.io/2022-forrest-staticbranding/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello R Markdown</title>
-      <link>https://example.com/blog/2020-12-01-r-rmarkdown/</link>
+      <link>https://humanfactors.github.io/2022-forrest-staticbranding/blog/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>https://example.com/blog/2020-12-01-r-rmarkdown/</guid>
+      <guid>https://humanfactors.github.io/2022-forrest-staticbranding/blog/2020-12-01-r-rmarkdown/</guid>
       <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
@@ -24,46 +24,46 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://example.com/blog/markdown-syntax/</link>
+      <link>https://humanfactors.github.io/2022-forrest-staticbranding/blog/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/markdown-syntax/</guid>
+      <guid>https://humanfactors.github.io/2022-forrest-staticbranding/blog/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Rich Content</title>
-      <link>https://example.com/blog/rich-content/</link>
+      <link>https://humanfactors.github.io/2022-forrest-staticbranding/blog/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/rich-content/</guid>
+      <guid>https://humanfactors.github.io/2022-forrest-staticbranding/blog/rich-content/</guid>
       <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Placeholder Text</title>
-      <link>https://example.com/blog/placeholder-text/</link>
+      <link>https://humanfactors.github.io/2022-forrest-staticbranding/blog/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/placeholder-text/</guid>
+      <guid>https://humanfactors.github.io/2022-forrest-staticbranding/blog/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Math Typesetting</title>
-      <link>https://example.com/blog/math-typesetting/</link>
+      <link>https://humanfactors.github.io/2022-forrest-staticbranding/blog/math-typesetting/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/math-typesetting/</guid>
+      <guid>https://humanfactors.github.io/2022-forrest-staticbranding/blog/math-typesetting/</guid>
       <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Emoji Support</title>
-      <link>https://example.com/blog/emoji-support/</link>
+      <link>https://humanfactors.github.io/2022-forrest-staticbranding/blog/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/emoji-support/</guid>
+      <guid>https://humanfactors.github.io/2022-forrest-staticbranding/blog/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     

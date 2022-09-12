@@ -1,6 +1,6 @@
-baseURL: https://example.com/
+baseURL: https://humanfactors.github.io/2022-forrest-staticbranding/
 languageCode: en-US
-title: Chris Turner
+title: Forrest Tutorial
 disqusShortname: ''
 googleAnalytics: ''
 theme: hugo-sustain
