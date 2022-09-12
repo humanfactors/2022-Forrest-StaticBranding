@@ -1,11 +1,10 @@
-baseURL: https://humanfactors.github.io/2022-forrest-staticbranding/
+baseURL: "https://humanfactors.github.io/2022-Forrest-StaticBranding/"
 languageCode: en-US
 title: Forrest Tutorial
 disqusShortname: ''
 googleAnalytics: ''
 theme: hugo-sustain
 publishDir: "../docs/"
-canonifyURLs: true
 permalinks:
   post: /:year/:month/:day/:slug
 params:

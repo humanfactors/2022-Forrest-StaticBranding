@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Forrest Tutorial</title>
-    <link>https://humanfactors.github.io/2022-forrest-staticbranding/categories/</link>
+    <link>https://humanfactors.github.io/2022-Forrest-StaticBranding/categories/</link>
     <description>Recent content in Categories on Forrest Tutorial</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
     
-	<atom:link href="https://humanfactors.github.io/2022-forrest-staticbranding/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://humanfactors.github.io/2022-Forrest-StaticBranding/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>R</title>
-      <link>https://humanfactors.github.io/2022-forrest-staticbranding/categories/r/</link>
+      <link>https://humanfactors.github.io/2022-Forrest-StaticBranding/categories/r/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>https://humanfactors.github.io/2022-forrest-staticbranding/categories/r/</guid>
+      <guid>https://humanfactors.github.io/2022-Forrest-StaticBranding/categories/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>syntax</title>
-      <link>https://humanfactors.github.io/2022-forrest-staticbranding/categories/syntax/</link>
+      <link>https://humanfactors.github.io/2022-Forrest-StaticBranding/categories/syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://humanfactors.github.io/2022-forrest-staticbranding/categories/syntax/</guid>
+      <guid>https://humanfactors.github.io/2022-Forrest-StaticBranding/categories/syntax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://humanfactors.github.io/2022-forrest-staticbranding/categories/themes/</link>
+      <link>https://humanfactors.github.io/2022-Forrest-StaticBranding/categories/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://humanfactors.github.io/2022-forrest-staticbranding/categories/themes/</guid>
+      <guid>https://humanfactors.github.io/2022-Forrest-StaticBranding/categories/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>projects</title>
-      <link>https://humanfactors.github.io/2022-forrest-staticbranding/categories/projects/</link>
+      <link>https://humanfactors.github.io/2022-Forrest-StaticBranding/categories/projects/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>https://humanfactors.github.io/2022-forrest-staticbranding/categories/projects/</guid>
+      <guid>https://humanfactors.github.io/2022-Forrest-StaticBranding/categories/projects/</guid>
       <description></description>
     </item>
     
