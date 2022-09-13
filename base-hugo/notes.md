@@ -14,10 +14,6 @@ touch content/_index.md
 touch content/_contact.md
 ```
 
-
-- Create 
-- 
-
 ```
 title = "Researcher"
 baseURL = "https://researcher.github.com"
