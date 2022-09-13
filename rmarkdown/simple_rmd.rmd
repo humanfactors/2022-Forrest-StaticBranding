@@ -1,0 +1,44 @@
+---
+title: "Using Rmarkdown"
+output:
+  html_document: 
+    toc: true
+    toc_depth: 3
+    toc_float:
+      collapsed: false
+  html_notebook: 
+    theme: spacelab
+---
+
+```{r setup}
+library(tidyverse)
+```
+
+
+Today is a `r weekdays(Sys.time())`. We examine the relationship between speed and stopping
+distance using a linear regression model:
+$Y = \beta_0 + \beta_1 x + \epsilon$.
+
+## Tables
+Tables can be included using the following notation
+
+A  | B | C
+--- | --- | ---
+1  | Male | Blue
+2  | Female | Pink
+
+## Plots
+
+
+```{r echo=TRUE, message=FALSE, warning=FALSE}
+iris_plot <- ggplot(data=select(iris, Species, Sepal.Length), 
+                    aes(x=Species, y=Sepal.Length, color=Species, fill=Species)) +
+  geom_violin(alpha=.1) +
+  geom_point(position=position_jitter(w=.2)) +
+  geom_crossbar(stat='summary',fun.y=mean, fun.ymax=mean, fun.ymin=mean, fatten=2, width=.5) +
+  theme_minimal()
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+print(iris_plot)
+```
