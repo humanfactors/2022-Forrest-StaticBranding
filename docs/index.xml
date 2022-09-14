@@ -2,17 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Static Site Workshop</title>
-    <link>https://github.com/humanfactors/2022-Forrest-StaticBranding/</link>
+    <link>https://humanfactors.github.io/2022-Forrest-StaticBranding/</link>
     <description>Recent content on Static Site Workshop</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://github.com/humanfactors/2022-Forrest-StaticBranding/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://humanfactors.github.io/2022-Forrest-StaticBranding/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Extra Materials</title>
-      <link>https://github.com/humanfactors/2022-Forrest-StaticBranding/materials/</link>
+      <link>https://humanfactors.github.io/2022-Forrest-StaticBranding/materials/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/humanfactors/2022-Forrest-StaticBranding/materials/</guid>
-      <description>Guides This is a Hugo based resume template. You can find the full source code on GitHub.
-Using Blogdown with R Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis[^1]. Mauris id urna ante.
+      <guid>https://humanfactors.github.io/2022-Forrest-StaticBranding/materials/</guid>
+      <description>Guides Official guide: https://gohugo.io/getting-started/quick-start/ Using Blogdown with R Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis[^1]. Mauris id urna ante.
 Fusce pharetra diam ac nisi aliquet, velegestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit[^2]. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.</description>
     </item>
     

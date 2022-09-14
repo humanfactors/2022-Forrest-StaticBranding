@@ -1,5 +1,5 @@
 title = "Static Site Workshop"
-baseURL = "https://github.com/humanfactors/2022-Forrest-StaticBranding"
+baseURL = "https://humanfactors.github.io/2022-Forrest-StaticBranding"
 theme = "researcher"
 disableKinds = ["taxonomy", "term"]
 enableEmoji = true
