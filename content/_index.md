@@ -1,6 +1,6 @@
 # Quick Start and Guide
 
-This website is built in Hugo and is the materials for the Forrest Branding Workshop. You can access the source of the materials for this workshop here: https://humanfactors.github.io/2022-Forrest-StaticBranding/
+This website is built in Hugo and is the materials for the Forrest Branding Workshop. You can access the source of the materials for this workshop here: https://github.com/humanfactors/2022-Forrest-StaticBranding
 
 I thought it would be useful to make this website itself using a resume template. You can find this theme on [GitHub](https://github.com/ojroques/hugo-researcher).
 
@@ -23,12 +23,6 @@ git clone https://github.com/ojroques/hugo-researcher.git themes/researcher
 *Note you can also manually download themes and unzip them to the `themes/` directory. 
 I also don't bother using Git submodules (which you might see some do).*
 
-Now you have a 
-
-## For R users
-
-- https://bookdown.org/yihui/blogdown/
-- https://matteocourthoud.github.io/post/website/
 
 
 ## Deployment with Github Pages and Netlify Information
