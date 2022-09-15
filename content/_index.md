@@ -18,6 +18,9 @@ hugo new site websitename
 cd websitename
 # below change the URL to any theme you wabt to use
 git clone https://github.com/ojroques/hugo-researcher.git themes/researcher
+# Next make sure you manually (or as below) delete the git submodule if you are going to be managing manually.
+# Unless you understand submodules it's better to avoid them
+rm -rf ./themes/researcher/.git/
 ```
 
 *Note you can also manually download themes and unzip them to the `themes/` directory. 
