@@ -22,14 +22,6 @@ publishDir = "docs/"
     avatarSize = "120px"
     colorBlack = "#222222"
     colorRed = "#dc3545"
-  [[params.socialIcons]]
-    icon = "fab fa-twitter"
-    title = "Twitter"
-    url = "https://twitter.com/"
-  [[params.socialIcons]]
-    icon = "fas fa-envelope"
-    title = "E-mail"
-    url = "mailto:mail@example.com"
 
 [permalinks]
   "/" = "/:filename"
@@ -50,5 +42,19 @@ publishDir = "docs/"
     url = "/materials"
     weight = 3
 
-[markup.goldmark.renderer]
-  unsafe = true  # allow raw HTML in markdown files
+
+[markup]
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ''
+    hl_inline = false
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    noHl = false
+    style = 'dracula'
+    tabWidth = 2

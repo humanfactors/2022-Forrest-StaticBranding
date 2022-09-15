@@ -41,6 +41,8 @@ More complex upload strategies are possible for advanced users. See below for mo
 
 **Netlify (Reccomended)**
 
+Netlify will automatically watch for changes on your project Github and build and deploy the site for you (no need to upload to `docs` manually). It also can provide an admin interface to write posts and content with!
+
 See the following URLS:
 
 - https://www.netlifycms.org/docs/start-with-a-template/ (this method here sets almost everything up for you to start with, you just need to add theme.)

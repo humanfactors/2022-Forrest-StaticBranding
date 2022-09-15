@@ -71,9 +71,9 @@
 </ul>
 <h2 id="basic-commands">Basic Commands</h2>
 <p>The following are the basic commands to create a site and then install a theme:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>hugo new site websitename
-</span></span><span style="display:flex;"><span>cd websitename
-</span></span><span style="display:flex;"><span><span style="color:#75715e"># below change the URL to any theme you wabt to use</span>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:2;-o-tab-size:2;tab-size:2;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>hugo new site websitename
+</span></span><span style="display:flex;"><span><span style="color:#8be9fd;font-style:italic">cd</span> websitename
+</span></span><span style="display:flex;"><span><span style="color:#6272a4"># below change the URL to any theme you wabt to use</span>
 </span></span><span style="display:flex;"><span>git clone https://github.com/ojroques/hugo-researcher.git themes/researcher
 </span></span></code></pre></div><p><em>Note you can also manually download themes and unzip them to the <code>themes/</code> directory.
 I also don&rsquo;t bother using Git submodules (which you might see some do).</em></p>
@@ -88,6 +88,7 @@ I also don&rsquo;t bother using Git submodules (which you might see some do).</e
 <li><a href="https://gohugo.io/hosting-and-deployment/hosting-on-github/">https://gohugo.io/hosting-and-deployment/hosting-on-github/</a></li>
 </ul>
 <p><strong>Netlify (Reccomended)</strong></p>
+<p>Netlify will automatically watch for changes on your project Github and build and deploy the site for you (no need to upload to <code>docs</code> manually). It also can provide an admin interface to write posts and content with!</p>
 <p>See the following URLS:</p>
 <ul>
 <li><a href="https://www.netlifycms.org/docs/start-with-a-template/">https://www.netlifycms.org/docs/start-with-a-template/</a> (this method here sets almost everything up for you to start with, you just need to add theme.)</li>
@@ -99,14 +100,6 @@ I also don&rsquo;t bother using Git submodules (which you might see some do).</e
 
         </div><div id="footer" class="mb-5">
     <hr>
-    
-    <div class="container text-center">
-        
-            <a href="https://twitter.com/" class="fab fa-twitter fa-1x" title="Twitter"></a>
-        
-            <a href="mailto:mail@example.com" class="fas fa-envelope fa-1x" title="E-mail"></a>
-        
-    </div>
     
     
         <div class="container text-center">
